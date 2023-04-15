@@ -1,0 +1,1 @@
+start chrome.exe "https://www.bkav.com.vn/o/download/QdAM-pDn6-Dl5Q-61Z7-R086-GE1R/BHome"
